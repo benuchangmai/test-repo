@@ -1,0 +1,13 @@
+.nav-wrapper {
+	display: flex;
+}
+.valid {
+	padding: 10px;
+}
+.valid.extra {
+	background-color: blue;
+}
+.main-body {
+	display: flex;
+}
+
